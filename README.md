@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @J-Enete
-- 👀 I’m interested in UX/UI
-- 🌱 I’m currently learning UX designing
-- 💞️ I’m looking to collaborate on all kinds of UX jobs
+- 👀 I currently work with @nestuge as a Ux/UI designer
+- 💞️ I’m looking to collaborate on all kinds of UX projects
 - 📫 How to reach me: judejideofor@gmail.com
 
 <!---
