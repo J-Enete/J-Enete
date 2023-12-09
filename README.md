@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @J-Enete
-- 👀 I currently work with @nestuge as a Ux/UI designer
+- 👀 I currently work with @nestuge as a UX/UI designer
+- 👀 I also work as a content author at Missouri University of Science and Technology
 - 💞️ I’m looking to collaborate on all kinds of UX projects
 - 📫 How to reach me: judejideofor@gmail.com
 
